@@ -2,11 +2,11 @@
 
 We build solutions that solve common software problems simply, elegantly, and clearly.
 
-🔒 **The problem**
+## 🔒 The problem
 
 Someone visits this GitHub organization have no idea of what to expect from the different repositories in here.
 
-✨ **The solution**
+## ✨ The solution
 
 Each repository in this org has a well defined problem and solution. The short version is always found in the `README.md` with links to more specific documentation.
 
