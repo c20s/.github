@@ -6,17 +6,11 @@
 
 </div>
 
----
-
-## 🧩 The problem
-
+> [!WARNING] The problem
 > Someone visits this GitHub organization have no idea of what to expect from the different repositories in here.
 
-## 💡 The solution
-
-Each repository in this org has a well defined problem and solution. The short version is always found in the `README.md` with links to more specific documentation.
-
----
+> [!TIP] The solution
+> Each repository in this org has a well defined problem and solution. The short version is always found in the `README.md` with links to more specific documentation.
 
 <div align="center">
 
