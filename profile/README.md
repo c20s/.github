@@ -1,19 +1,13 @@
-<div align="center">
-
 # A place for conventional solutions
 
 **We build solutions that solve common software problems simply, elegantly, and clearly.**
 
-</div>
+🔒 **The problem**
+Someone visits this GitHub organization have no idea of what to expect from the different repositories in here.
 
-> [!WARNING] The problem
-> Someone visits this GitHub organization have no idea of what to expect from the different repositories in here.
+✨ **The solution**
+Each repository in this org has a well defined problem and solution. The short version is always found in the `README.md` with links to more specific documentation.
 
-> [!TIP] The solution
-> Each repository in this org has a well defined problem and solution. The short version is always found in the `README.md` with links to more specific documentation.
-
-<div align="center">
+---
 
 🔗 [c20s/repositories](https://github.com/orgs/c20s/repositories)
-
-</div>
